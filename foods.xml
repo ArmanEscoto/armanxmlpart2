@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foods>
+    <food>
+        <name>Breakfast</name>
+        <item>Breakfast Sandwich</item>
+        <description>Although the ingredients for the breakfast sandwich have been common elements of breakfast meals in the English-speaking world for centuries, it was not until the 19th century in the United States that people began regularly eating eggs, cheese, and meat in a sandwich</description>
+        <dish>
+            <dishes>Egg Sandwich</dishes>
+            <dishes>Chiken Sandwich</dishes>
+            <dishes>Bacon Sandwich</dishes>
+            <dishes>Tuna Sandwich</dishes>
+        </dish>
+    </food>
+    <food>
+        <name>Junkfood</name>
+        <item>Pizza</item>
+        <description>You want the best pizza to be cooked to a crisp. The cheese should be melted, the crust should have some crunch to it, the toppings should be well-cooked and the whole thing should be served piping hot.</description>
+        <dish>
+            <dishes>Neapolitan Pizza</dishes>
+            <dishes>Chicago Pizza</dishes>
+            <dishes>New York-Style Pizza</dishes>
+            <dishes>Sicilian Pizza</dishes>
+        </dish>
+    </food>
+    <food>
+        <name>Lunch</name>
+        <item>Adobo</item>
+        <description> A Philippine dish of fish or meat usually marinated in a sauce containing vinegar and garlic, browned in fat, and simmered in the marinade</description>
+        <dish>
+            <dishes>Chicken Adobo</dishes>
+            <dishes>Pork Adobo</dishes>
+            <dishes>Beef Adobo</dishes>
+            <dishes>Duck Adobo</dishes>
+        </dish>
+    </food>
+    <food>
+        <name>Snack Time</name>
+        <item>Snacks</item>
+        <description> Snacks are defined as foods and drinks eaten between meals including milk drinks, regular soft drinks, sports drinks, energy drinks.</description>
+        <dish>
+            <dishes>Potato Chips</dishes>
+            <dishes>Popcorn</dishes>
+            <dishes>Oreos</dishes>
+            <dishes>Cheetos</dishes>
+        </dish>
+    </food>
+    <food>
+        <name>Dinner</name>
+        <item>Lechon</item>
+        <description>It has a great balance of salty, sour, and sweet flavors, and curiously, there are quite a few people to actually prefer the paksiw over the lechon itself.</description>
+        <dish>
+            <dishes>Letchon Manok</dishes>
+            <dishes>Letchon Baka</dishes>
+            <dishes>Letchon Baboy</dishes>
+            <dishes>Lechon Duck</dishes>
+        </dish>
+    </food>
+
+
+</foods>
